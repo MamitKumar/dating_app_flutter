@@ -99,7 +99,7 @@ class LoveMe extends StatelessWidget {
                           TextStyle(fontSize: 34, fontFamily: 'SyneMono'),
                     ),
                     Text(
-                      "  20Year",
+                      "  20Year ",
                       style: TextStyle(
                           fontSize: 15, fontWeight: FontWeight.bold),
                     ),
