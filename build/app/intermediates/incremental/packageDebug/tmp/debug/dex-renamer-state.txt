@@ -1,0 +1,4 @@
+#Thu Sep 01 18:10:58 IST 2022
+base.0=/Users/mamitkumar/Flutter Project PRO/dating_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
